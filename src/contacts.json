@@ -8,6 +8,14 @@
     "wonEmmy": false
   },
   {
+    "name": "Ansel Elgort",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/uQYUfGvOZkB5x25Z19UeyLABHmr.jpg",
+    "popularity": 9.429994,
+    "id": "09178713-ca9d-4657-a570-51d6f6459f57",
+    "wonOscar": false,
+    "wonEmmy": false
+  },
+  {
     "name": "Johnny Depp",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/kbWValANhZI8rbWZXximXuMN4UN.jpg",
     "popularity": 15.656534,
@@ -55,14 +63,7 @@
     "wonOscar": false,
     "wonEmmy": false
   },
-  {
-    "name": "Ansel Elgort",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/uQYUfGvOZkB5x25Z19UeyLABHmr.jpg",
-    "popularity": 9.429994,
-    "id": "09178713-ca9d-4657-a570-51d6f6459f57",
-    "wonOscar": false,
-    "wonEmmy": false
-  },
+
   {
     "name": "Maria Bello",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/tFkbad0JoWvYc6XYBITv6EfeLwR.jpg",
